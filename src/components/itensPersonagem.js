@@ -4,7 +4,7 @@ const itensPersonagem = ({ item }) => {
   return (
     <div className="content">
       <div className="content-front">
-        <img src={item.thumbnail.path + "/standard_fantastic.jpg"} alt="/" />
+        <img className="img-fluid " src={item.thumbnail.path + "/standard_fantastic.jpg"} alt="/" />
         <div className="content-inner">
           <div className="content-back">
             <h1 className="content-text">{item.name}</h1>
