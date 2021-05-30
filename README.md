@@ -29,8 +29,9 @@
    </table>
    <h2>Como executar o aplicativo: </h2>
     <ul>
-      <li>Abra o terminal do visual studio (Atalho Crtl+J) ou power shell</li>
-      <li>apos o acesso a pasta marvel no terminal execute um npm start</li>
+      <li>Abra a pasta marvel utilizando uma IDE de sua preferência</li>
+      <li>Abra o powershell ou caso utilize o visual studio  como IDE abra o terminal (Atalho: Crtl+J) </li>
+      <li>execute um npm start no terminal (lembre-se de verificar se o caminho da pasta está correto no terminal)</li>
     </ul>
     <h2> Visualização da aplicação </h2>
   
