@@ -1,6 +1,6 @@
   <h1> Desafio API-Marvel </h1>
   
-  <h3>Baseasse em uma aplicação web, que deve lista os persongens da marvel consumindo a seguinte api >https://developer.marvel.com/</h3>
+  <h3>Baseasse em uma aplicação web, que deve lista os personagens da marvel consumindo a seguinte api >https://developer.marvel.com/</h3>
   
 
   <h2>Tecnologias utilizadas</h2>
