@@ -1,6 +1,6 @@
   <h1> Desafio API-Marvel </h1>
   
-  <h3>Esta Aplicação é o resultado de um desafio que me foi apresentado e que deve mostrar uma lista de personagens da marvel usando a seguinte API:  >https://developer.marvel.com/</h3>
+  <h3>Esta aplicação é o resultado de um desafio que me foi apresentado e que deve mostrar uma lista de personagens da marvel usando a seguinte API:  >https://developer.marvel.com/</h3>
   
 
   <h2>Tecnologias utilizadas</h2>
