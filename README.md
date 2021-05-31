@@ -1,7 +1,6 @@
   <h1> Desafio API-Marvel </h1>
   
-  <h3>Baseasse em uma aplicação web, que mostra a listagem de
-personagens da marvel consumindo a seguinte API:  >https://developer.marvel.com/</h3>
+  <h3>Este arquivo é o resultado de um desafio que me foi apresentado e que deve mostrar uma lista de personagens da marvel usando a seguinte API:  >https://developer.marvel.com/</h3>
   
 
   <h2>Tecnologias utilizadas</h2>
@@ -31,8 +30,8 @@ personagens da marvel consumindo a seguinte API:  >https://developer.marvel.com/
    <h2>Como executar o aplicativo: </h2>
     <ul>
       <li>Abra a pasta marvel utilizando uma IDE de sua preferência</li>
-      <li>Abra o powershell ou caso utilize o visual studio  como IDE abra o terminal (Atalho: Crtl+J) </li>
-      <li>execute um npm start no terminal (lembre-se de verificar se o caminho da pasta está correto no terminal)</li>
+      <li>Abra o Powershell ou, se você usar o Visual Studio como IDE, abra o terminal (atalho: Crtl + J)</li>
+      <li>Execute npm start no terminal (lembre-se de verificar se o caminho da pasta no terminal está correto)</li>
     </ul>
     <h2> Visualização da aplicação </h2>
   
