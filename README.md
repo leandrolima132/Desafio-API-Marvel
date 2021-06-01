@@ -29,7 +29,7 @@
    </table>
    <h2>Como executar o aplicativo: </h2>
     <ul>
-      <li>Abra a pasta marvel utilizando uma IDE de sua preferência</li>
+      <li>Abra a pasta Desafio-API-Marvel utilizando uma IDE de sua preferência</li>
       <li>Abra o Powershell ou, se você usar o Visual Studio como IDE, abra o terminal (atalho: Crtl + J)</li>
       <li>Execute npm start no terminal (lembre-se de verificar se o caminho da pasta no terminal está correto)</li>
     </ul>
